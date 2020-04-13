@@ -1,3 +1,7 @@
+/*
+O quente batimento do seu coração será sua arma
+*/
+
 // Modules to control application life and create native browser window
 const {app, BrowserWindow} = require('electron')
 
